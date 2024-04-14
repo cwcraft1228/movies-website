@@ -1,0 +1,4 @@
+npx create-react-app movie-website
+cd movie-website
+code movie-website   
+code .
